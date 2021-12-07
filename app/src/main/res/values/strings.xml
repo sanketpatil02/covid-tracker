@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covid_Tracker</string>
+    <string name="active">Active</string>
+</resources>
